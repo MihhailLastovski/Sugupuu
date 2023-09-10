@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<inimene synd="1926" sugu="naine">
+	<nimi>Elisabeth II</nimi>
+	<lapsed>
+		<inimene synd="1948" sugu="mees">
+			<nimi>Charles</nimi>
+			<lapsed>
+				<inimene synd="1984" sugu="mees">
+					<nimi>Henry Mountbatten-Windsor</nimi>
+					<lapsed>
+						<inimene synd="2021" sugu="naine">
+							<nimi>Lilibet</nimi>
+						</inimene>
+						<inimene synd="2019" sugu="mees">
+							<nimi>Archie</nimi>
+						</inimene>
+					</lapsed>
+				</inimene>
+				<inimene synd="1982" sugu="mees">
+					<nimi>William</nimi>
+					<lapsed>
+						<inimene synd="2013" sugu="mees">
+							<nimi>Prince George</nimi>
+						</inimene>
+						<inimene synd="2015" sugu="naine">
+							<nimi>Princess Charlotte</nimi>
+						</inimene>
+						<inimene synd="2018" sugu="naine">
+							<nimi>Princess Louiss</nimi>
+						</inimene>
+					</lapsed>
+				</inimene>
+			</lapsed>
+		</inimene>
+		<inimene synd="1950" sugu="naine">
+			<nimi>Anne</nimi>
+			<lapsed>
+				<inimene synd="1981" sugu="naine">
+					<nimi>Zara Phillips</nimi>
+				</inimene>
+				<inimene synd="1977" sugu="mees">
+					<nimi>Peter Phillips</nimi>
+				</inimene>
+			</lapsed>
+		</inimene>
+		<inimene synd="1964" sugu="mees">
+			<nimi>Prints Edward, Wessexi krahv</nimi>
+			<lapsed>
+				<inimene synd="2003" sugu="naine">
+					<nimi>Wessexi printsess Louise</nimi>
+				</inimene>
+			</lapsed>
+		</inimene>
+		<inimene synd="1960" sugu="mees">
+			<nimi>Prints Andrew, Yorki hertsog</nimi>
+			<lapsed>
+				<inimene synd="1988" sugu="naine">
+					<nimi>Printsess Beatrice</nimi>
+				</inimene>
+				<inimene synd="1990" sugu="mees">
+					<nimi>Printsess Eugenie</nimi>
+				</inimene>
+			</lapsed>
+		</inimene>
+	</lapsed>
+</inimene>
