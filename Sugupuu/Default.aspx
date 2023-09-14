@@ -7,7 +7,7 @@
         <h1>Sugupuu uülesannete lahendamine</h1>
         <form id="form1" runat="server">
             <div>
-                <asp:Xml ID="xml" runat="server" DocumentSource="~/Sugupuu.xml" TransformSource="~/XSLTFileSugupuu.xslt" />
+                <asp:Xml ID="xml" runat="server" DocumentSource="~/minusugupuu.xml" TransformSource="~/XSLTminusugupuu.xslt" />
             </div>
         </form>
     </body>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<inimene synd="1919" sugu="naine" elukoht="Venemaa">
+	<nimi>Irina</nimi>
+	<perekonnanimi>Udalaja</perekonnanimi>
+	<abiellus>
+		<inimene synd="1914" sugu="mees" elukoht="Venemaa">
+			<nimi>Aleksei</nimi>
+			<perekonnanimi>Karpov</perekonnanimi>
+		</inimene>
+	</abiellus>
+	<lapsed>
+		<inimene synd="1943" sugu="naine" elukoht="Estonia">
+			<nimi>Valentina</nimi>
+			<perekonnanimi>Karpova</perekonnanimi>
+			<abiellus>
+				<inimene synd="1940" sugu="mees" elukoht="Estonia">
+					<nimi>Jonas</nimi>
+					<perekonnanimi>Pitkevitšjus</perekonnanimi>
+				</inimene>
+			</abiellus>
+			<lapsed>
+				<inimene synd="1968" sugu="naine" elukoht="Estonia">
+					<nimi>Marina</nimi>
+					<perekonnanimi>Pitkevitšjus</perekonnanimi>
+					<abiellus>
+						<inimene synd="1969" sugu="mees" elukoht="Estonia">
+							<nimi>Juri</nimi>
+							<perekonnanimi>Lastovski</perekonnanimi>
+						</inimene>
+					</abiellus>
+					<lapsed>
+						<inimene synd="1993" sugu="naine" elukoht="Estonia">
+							<nimi>Julia</nimi>
+							<perekonnanimi>Lastovskaja</perekonnanimi>
+							<abiellus>
+								<inimene synd="1984" sugu="mees" elukoht="Estonia">
+									<nimi>Aleksandr</nimi>
+									<perekonnanimi>Djatšenko</perekonnanimi>
+								</inimene>
+							</abiellus>
+							<lapsed>
+								<inimene synd="2011" sugu="naine" elukoht="Estonia">
+									<nimi>Arina</nimi>
+									<perekonnanimi>Lastovskaja</perekonnanimi>
+									<abiellus>Pole</abiellus>
+								</inimene>
+								<inimene synd="2021" sugu="naine" elukoht="Estonia">
+									<nimi>Alina</nimi>
+									<perekonnanimi>Lastovskaja</perekonnanimi>
+									<abiellus>Pole</abiellus>
+								</inimene>
+							</lapsed>
+						</inimene>
+						<inimene synd="2005" sugu="mees" elukoht="Estonia">
+							<nimi>Mihhail</nimi>
+							<perekonnanimi>Lastovski</perekonnanimi>
+							<abiellus>Pole</abiellus>
+						</inimene>
+					</lapsed>
+				</inimene>
+				<inimene synd="1971" sugu="mees" elukoht="Estonia">
+					<nimi>Andrei</nimi>
+					<perekonnanimi>Pitkevitšjus</perekonnanimi>
+					<abiellus>Pole</abiellus>
+				</inimene>
+			</lapsed>
+		</inimene>
+	</lapsed>
+</inimene>
